@@ -2,7 +2,7 @@
 
 ## Objectives
 - Make your first steps with TDD
-
+ 
 ## Context
 In the `src/main/java/fr/anthonyquere/fizzbuzz` directory, there is a new Java class called `FizzBuzz`.
 
